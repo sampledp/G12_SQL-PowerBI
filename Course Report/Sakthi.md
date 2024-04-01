@@ -19,9 +19,9 @@ Welcome to the course report for the  SQL,POWER BI! This README document provide
 
 ### Mini Projects and Final Project
 
-Below is a table summarizing the mini projects and final project completed during the course: Sql theory using various clauses such as SELECT,AS, FOR etc..andin google sheets we use formula for sum, count etc...
+Below is a table summarizing the mini projects and final project completed during the course: Sql theory using various clauses such as SELECT,AS, FOR etcandin google sheets we use formula for sum, count etc
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: Project |sql theory using various clauses such as SELECT, FOR,etc.google sheets using formula sum,count etc.  |[click link here](https://github.com/sure-trust/G12_SQL-PowerBI/tree/main/Mini%20Projects/Sakthi.)                         |
-| Final Project:creating  data visulasition usingpowerbi and creating a dashboard.[click link here](https://github.com/sure-trust/G12_SQL-PowerBI/tree/main/Final%20Capstone%20Project)                         |
+| Mini Projects: sql theory using various clauses such as SELECT, FOR,etc.google sheets using formula sum,count etc.  |[click link here](https://github.com/sure-trust/G12_SQL-PowerBI/tree/main/Mini%20Projects/Sakthi.)                         |
+| Final Project:creating  data visulasition usingpowerbi and creating a dashboard. |[click link here](https://github.com/sure-trust/G12_SQL-PowerBI/tree/main/Final%20Capstone%20Project)                         
