@@ -6,22 +6,24 @@
 
 
 <h3 align="center">SURE Trust - Skill Upgradation for Rural-youth Empowerment Trust</h3>
-  <h2>Course Name</h2>
+  <h2>SQL-POWERBI</h2>
 </div>
 
 # Course Report
 
-## Name: [Your Name]
+## Name: NASINA LATHASRI
 
-## Qualifications: [Your Qualifications]
+## Qualifications: M.Sc
 
-Welcome to the course report for the [Course Name]! This README document provides an overview of the course, its mini projects and final project.
+Welcome to the course report for the SQL-POWERBI This README document provides an overview of the course, its mini projects and final project.
 
 ### Mini Projects and Final Project
 
-Below is a table summarizing the mini projects and final project completed during the course:
+Below is a table summarizing the mini projects and final project completed during the course:Sql theory using various clauses such as  
+SELECT,AS,FOR etc..and in google sheets we use formula for sum,avg,count etc..
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: [Project Description]     | [Project Link]                         |
-| Final Project: [Project Description]     | [Project Link]                         |
+| Mini Projects: [Project Sql theory using various clauses such as  SELECT,AS,FOR etc..and in google sheets we use formula for sum,avg,count etc..]   |  
+ [click Link here]()                         |
+| Final Project: [Creating data visualization using powerBI and creating a dashboard.]     | [click Link here]()                         |
