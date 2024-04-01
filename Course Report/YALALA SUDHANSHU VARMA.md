@@ -21,5 +21,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: AUTOMOBILE PRODUCTION AND FEATURES ANALYSIS     | [Project Link](https://github.com/yalalasudhanshuvarma/G12_SQL-PowerBI/tree/main/Mini%20Projects/Varma)                       |
-| Final Project: AUTOMOBILE PRODUCTION AND FEATURES ANALYSIS     | [Project Link](https://github.com/yalalasudhanshuvarma/G12_SQL-PowerBI/tree/main/Final%20Capstone%20Project/Varma)
+| Mini Projects: AUTOMOBILE PRODUCTION AND FEATURES ANALYSIS     | [Project Link](https://github.com/sure-trust/G12_SQL-PowerBI/tree/main/Mini%20Projects/Varma)                       |
+| Final Project: AUTOMOBILE PRODUCTION AND FEATURES ANALYSIS     | [Project Link](https://github.com/sure-trust/G12_SQL-PowerBI/tree/main/Final%20Capstone%20Project/Varma)
