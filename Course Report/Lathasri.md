@@ -25,5 +25,5 @@ SELECT,AS,FOR etc..and in google sheets we use formula for sum,avg,count etc..
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
 | Mini Projects: [Project Sql theory using various clauses such as  SELECT,AS,FOR etc..and in google sheets we use formula for sum,avg,count etc..]   |  
- [click Link here](https://github.com/Lathasri10/G12_SQL-PowerBI/tree/main/Mini%20Projects/Latha%20Sri)                         |
-| Final Project: [Creating data visualization using powerBI and creating a dashboard.]     | [click Link here](https://github.com/Lathasri10/G12_SQL-PowerBI/tree/main/Final%20Capstone%20Project/Latha%20Sri)                         |
+ [click Link here](https://github.com/sure-trust/G12_SQL-PowerBI/tree/main/Mini%20Projects/Latha%20Sri)                         |
+| Final Project: [Creating data visualization using powerBI and creating a dashboard.]     | [click Link here](https://github.com/sure-trust/G12_SQL-PowerBI/tree/main/Final%20Capstone%20Project/Latha%20Sri)                         |
