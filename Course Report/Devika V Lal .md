@@ -23,7 +23,7 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: [Theory]                   | [Project Link](https://github.com/sure-trust/G12_SQL-PowerBI/tree/main/Final%20Capstone%20Project/V%20Devika) |
-| Final Project: [Data Analysis and Visualization] | [Project Link](https://github.com/your-username/your-repository) |
+| Mini Projects: Theory                   | [Project Link](https://github.com/sure-trust/G12_SQL-PowerBI/tree/main/Final%20Capstone%20Project/V%20Devika) |
+| Final Project: Data Analysis and Visualization | [Project Link](https://github.com/your-username/your-repository) |
 
 
