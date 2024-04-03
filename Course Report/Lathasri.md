@@ -13,7 +13,7 @@
 
 ## Name: NASINA LATHASRI
 
-## Qualifications: M.Sc
+## Qualifications: M.Sc(Statistics)
 
 Welcome to the course report for the SQL-POWERBI This README document provides an overview of the course, its mini projects and final project.
 
@@ -24,6 +24,5 @@ SELECT,AS,FOR etc..and in google sheets we use formula for sum,avg,count etc..
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: [Project Sql theory using various clauses such as  SELECT,AS,FOR etc..and in google sheets we use formula for sum,avg,count etc..]   |  
- [click Link here](https://github.com/sure-trust/G12_SQL-PowerBI/tree/main/Mini%20Projects/Latha%20Sri)                         |
-| Final Project: [Creating data visualization using powerBI and creating a dashboard.]     | [click Link here](https://github.com/sure-trust/G12_SQL-PowerBI/tree/main/Final%20Capstone%20Project/Latha%20Sri)                         |
+| Mini Projects: Project Sql theory using various clauses such as  SELECT,AS,FOR etc..and in google sheets we use formula for sum,avg,count..etc |(https://github.com/sure-trust/G12_SQL-PowerBI/tree/main/Mini%20Projects/Latha%20Sri) |
+| Final Project: create some questions on sales store dataset  and write sql and google sheet solutions and data visualization using powerBI and creating a dashboard. |  (https://github.com/suretrust/G12_SQPowerBI/tree/main/Final%20Capstone%20Project/Latha%20Sri) |                        |
