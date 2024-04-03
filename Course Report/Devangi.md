@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: SQL facilitates querying, updating, and managing relational databases, while Google Sheets functions enable data manipulation, analysis, and collaboration within a cloud-based spreadsheet environment       |https://github.com/DebangiBari/G12_SQL-PowerBI/tree/main/Mini%20Projects/Devangi                         |
-| Final Project: In my churn modeling project, I aim to predict customer attrition by analyzing historical data and identifying key factors influencing customer retention or loss    | [Project Link]                         |https://github.com/DebangiBari/G12_SQL-PowerBI/tree/main/Final%20Capstone%20Project/Devangi
+| Mini Projects: SQL facilitates querying, updating, and managing relational databases, while Google Sheets functions enable data manipulation, analysis, and collaboration within a cloud-based spreadsheet environment       |[Click Here](https://github.com/DebangiBari/G12_SQL-PowerBI/tree/main/Mini%20Projects/Devangi)                        |
+| Final Project: In my churn modeling project, I aim to predict customer attrition by analyzing historical data and identifying key factors influencing customer retention or loss                            |[Click here](https://github.com/DebangiBari/G12_SQL-PowerBI/tree/main/Final%20Capstone%20Project/Devangi)|
