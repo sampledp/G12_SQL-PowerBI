@@ -6,7 +6,7 @@
 
 
 <h3 align="center">SURE Trust - Skill Upgradation for Rural-youth Empowerment Trust</h3>
-  <h2>Course Name</h2>
+  <h2>SQL-Power BI</h2>
 </div>
 
 # Course Report
@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: Theory about sql and google sheets   | [Project Link](https://github.com/sampledp/G12_SQL-PowerBI/tree/main/Mini%20Projects/Deepika)                         |
-| Final Project: Grocery Sales Dashboard created through google looker studio    | [Project Link](https://github.com/sampledp/G12_SQL-PowerBI/tree/main/Final%20Capstone%20Project/Deepika)                      |
+| Mini Projects: Theory about sql and google sheets   | [Project Link](https://github.com/sure-trust/G12_SQL-PowerBI/tree/main/Mini%20Projects/Deepika)                        |
+| Final Project: Grocery Sales Dashboard created through google looker studio    | [Project Link](https://github.com/sure-trust/G12_SQL-PowerBI/tree/main/Final%20Capstone%20Project/Deepika)                      |
