@@ -24,5 +24,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: I have written a theortical part of SQL and Google sheets     | https://github.com/sure-trust/G12_SQL-PowerBI/tree/main/Mini%20Projects/Lavanya                         |
-| Final Project: My project is all about Netflix content. I have written some questions based on my dataset and exeuted the questions in SQL and google sheets and then created a dashboard through POWERBI   | https://github.com/sure-trust/G12_SQL-PowerBI/tree/main/Final%20Capstone%20Project/Lavanya                        |
+| Mini Projects: I have written a theortical part of SQL and Google sheets     | [Click here](https://github.com/sure-trust/G12_SQL-PowerBI/tree/main/Mini%20Projects/Lavanya)                         |
+| Final Project: My project is all about Netflix content. I have written some questions based on my dataset and exeuted the questions in SQL and google sheets and then created a dashboard through POWERBI   | [Click Here](https://github.com/sure-trust/G12_SQL-PowerBI/tree/main/Final%20Capstone%20Project/Lavanya)                       |
